@@ -1,0 +1,92 @@
+<html>
+<head>
+
+<body>
+<h2>
+<marquee bgcolor="#218ddb">
+<h1><font color="black">"PENTATHLÒN DEPORTIVO MILITARIZADO UNIVERSITARIO"</font></H1></marquee>
+<tltle><center><big>PDMU</big></center></title></h2>
+
+<p><center><big><h2>
+<i>COMANDANTE:</i></p>
+<p>
+<i>RAUL HERNANDES PADILLA</i></p></center></big>
+<p></h2>
+
+<p><center>
+ <i>UBICACION</i></p>
+ <p>
+ <i>Sadi Carnot 68, San Rafael, Cuauhtémoc, 06470 Cuauhtemoc, CDMX</i></p></center>
+
+<table bgcolor="LIGHTBLUE"border="1"vidth="80%">
+
+<body>
+<body bgcolor="white">
+
+   <div class="login-box">
+      <img src="img/logo.png" class="avatar" alt="Avatar Image">
+      <h1>Login Here</h1>
+      <form>
+        <!-- USERNAME INPUT -->
+        <label for="username">Username</label>
+        <input type="text" placeholder="Enter Username">
+        <!-- PASSWORD INPUT -->
+        <label for="password">Password</label>
+        <input type="password" placeholder="Enter Password">
+        <input type="submit" value="Log In">
+        <a href="#">Lost your Password?</a><br>
+        <a href="#">Don't have An account?</a>
+
+<h2><a href-"javascript:print()span style-"color:rgb(0, 255,255);"><span style="font family: Arial;"><span style="font size:x-large;">Imprimir Contenido</span></span></span></a></h2>
+
+Nombre:<input type="text"/> <br/><br/>
+Apellidos:<input type="text"/> <br/><br/>
+Contraseña:<input type="password"/> <br/><br/> 
+casilla de selección:<input type="radio"/> <br/><br/>
+selección de archivo: <input type="file"> <br/><br/>
+botón de envio:<input type="submit">
+
+<table bgcolor="LIGHTBLUE"border="1"vidth="80%">
+<tr>
+<th>INTEGRANTES</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+</td>
+<tr>
+<th>NOMBRES</td>
+<td>VANIA ALINE</td>
+<td>HELEN</td>
+<td>ERIK DANIEL</td>
+<td>GIOVANI</td>
+<td>ODISEO EMILIANO</td>
+<td>FERNANDA</td>
+</tr>
+<tr>
+<td>Apellido.P</td>
+<td>SANTIAGO</td>
+<td>PAEZ</td>
+<td>REYES</td>
+<td>CARVAJAL</td>
+<td>MARTINEZ</td>
+<td>MARTINEZ</td>
+</tr>
+<tr>
+<td>Apellido.M</td>
+<td>GUZMÁN</td>
+<td>MARTINEZ</td>
+<td>GORGONIO</td>
+<td>ROJAS</td>
+<td>RAMIREZ</td>
+<td>MORALES</td>
+</tr>
+</form>
+<ahref="mailto:vaniasantiago910@gmail.com">Enviarmail.vaniasantiago910@gmail.com</a></td></from></th>
+</p>
+<p>
+</script></div><div class="n"><div class="n"> <a href="#"title="Ir arriba"><img alt="Ir arriba" border="0"
+src="https://2.bp.blogspot.com/_pgZA1ny_dAs/S0QFsV1WD7l/AAAAAAAADhs/ZBKrnpzqBrk/s200/arrow8a.png"style-position:fixed;bottom:0;right.:0;/></a> </div></p>
+</html>
