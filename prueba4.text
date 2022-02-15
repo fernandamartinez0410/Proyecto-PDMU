@@ -1,0 +1,33 @@
+<html>
+<head>
+
+<body>
+<marquee bgcolor="#218ddb">
+<h1><font color="black">"Pentathlón Deportivo Militarizado Universitario"</font></H1></marquee>
+<tltle><center><big></big></center></title>
+<P>
+<p><center><big>
+<div class="login-form">
+<h1>Pentathlon</h1>
+<form>
+<p>Correo</p>
+<input type="text" name="Correo" required="" />
+<p>Contrasena</p>
+<input type="Contrasña" name="Contrasena" required="" />
+</form>
+<a>Olvidaste tu contrasena?</a>
+</div>
+<button type="button">INICIAR SESION</button>
+
+<p>
+<i></i></p>
+<p>
+<p>servicio al cliente</p><img src= "Penta.png" width= "150"></center></big>
+<p>
+<i></i></p>
+<p>
+<i></i></p>
+</p>
+</head>
+</body>
+<body>
