@@ -1,0 +1,122 @@
+<html>
+<head>
+
+<body>
+<h2>
+<marquee bgcolor="#218ddb"><center>
+<h2><font color="black">"PENTATHLÒN DEPORTIVO MILITARIZADO UNIVERSITARIO"</marquee></h2></center>
+
+<body>
+<body bgcolor="white">
+<p>
+<table border="5">
+<tr>
+<td colspan="2"> Curso Nacional de Instructores</td>
+</tr>
+<tr>
+<td> <label for="username"> Nombre del usuario  </label></td>
+</tr>
+<tr>
+<td> <input type="text" placeholder=" Insertar Nombre del usuario">
+</td>
+</tr>
+<tr>
+<td> <label for="password">Password</label></td>
+</tr>
+<tr>
+<td> <input type="password" placeholder="Enter Password">
+</td>
+</tr>
+<tr>
+<td> <a href="#">Don't have An account?</a> </td>
+</tr>
+</p>
+<p>
+<table border="5">
+<tr>
+<td colspan="2"> Curso de entrenamiento </td>
+</tr>
+<tr>
+<td> <label for="username"> Nombre del usuario  </label></td>
+</tr>
+<tr>
+<td> <input type="text" placeholder=" Insertar Nombre del usuario">
+</td>
+</tr>
+<tr>
+<td> <label for="password">Password</label></td>
+</tr>
+<tr>
+<td> <input type="password" placeholder="Enter Password">
+</td>
+</tr>
+<tr>
+<td> <a href="#">Don't have An account?</a> </td>
+</tr>
+</p>
+<p>
+<table border="5">
+<tr>
+<td colspan="2"> Curso de servicios </td>
+</tr>
+<tr>
+<td> <label for="username"> Nombre del usuario  </label></td>
+</tr>
+<tr>
+<td> <input type="text" placeholder=" Insertar Nombre del usuario">
+</td>
+</tr>
+<tr>
+<td> <label for="password">Password</label></td>
+</tr>
+<tr>
+<td> <input type="password" placeholder="Enter Password">
+</td>
+</tr>
+<tr>
+<td> <a href="#">Don't have An account?</a> </td>
+</tr></p>
+</body>
+
+<table bgcolor="LIGHTBLUE"border="1"vidth="80%">
+<tr>
+<th>INTEGRANTES</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+</td>
+<tr>
+<th>NOMBRES</td>
+<td>VANIA ALINE</td>
+<td>HELEN</td>
+<td>ERIK DANIEL</td>
+<td>GIOVANI</td>
+<td>ODISEO EMILIANO</td>
+<td>FERNANDA</td>
+</tr>
+<tr>
+<td>Apellido.P</td>
+<td>SANTIAGO</td>
+<td>PAEZ</td>
+<td>REYES</td>
+<td>CARVAJAL</td>
+<td>MARTINEZ</td>
+<td>MARTINEZ</td>
+</tr>
+<tr>
+<td>Apellido.M</td>
+<td>GUZMÁN</td>
+<td>MARTINEZ</td>
+<td>GORGONIO</td>
+<td>ROJAS</td>
+<td>RAMIREZ</td>
+<td>MORALES</td>
+</tr>
+</form>
+<p>
+</script></div><div class="n"><div class="n"> <a href="#"title="Ir arriba"><img alt="Ir arriba" border="0"
+src="https://2.bp.blogspot.com/_pgZA1ny_dAs/S0QFsV1WD7l/AAAAAAAADhs/ZBKrnpzqBrk/s200/arrow8a.png"style-position:fixed;bottom:0;right.:0;/></a> </div></p>
+</html>
